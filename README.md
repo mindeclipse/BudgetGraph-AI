@@ -1,9 +1,10 @@
 # 💰 BudgetGraph AI - Асистент для особистих фінансів
 
 **Практична робота №3** з дисципліни "Штучний інтелект у розробці ПЗ".
+
 **Варіант 3:** Асистент для особистих фінансів.
 
-🔗 **[Посилання на розгорнутий застосунок (Streamlit Community Cloud)]**(https://budgetgraph-ai.streamlit.app/)
+🔗 **[Посилання на розгорнутий застосунок (Streamlit Community Cloud)]** (https://budgetgraph-ai.streamlit.app/)
 
 ---
 
