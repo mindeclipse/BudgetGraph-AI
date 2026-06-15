@@ -1,0 +1,13 @@
+# Секрети та конфігурації
+.streamlit/secrets.toml
+.env
+
+# Кеш Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Віртуальні середовища
+venv/
+env/
+.venv/
