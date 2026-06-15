@@ -3,7 +3,7 @@
 **Практична робота №3** з дисципліни "Штучний інтелект у розробці ПЗ".
 **Варіант 3:** Асистент для особистих фінансів.
 
-🔗 **[Посилання на розгорнутий застосунок (Streamlit Community Cloud)](#)** *https://budgetgraph-ai.streamlit.app/*
+🔗 **[Посилання на розгорнутий застосунок (Streamlit Community Cloud)](#)** *(https://budgetgraph-ai.streamlit.app/)*
 
 ---
 
@@ -12,7 +12,7 @@ BudgetGraph — це розумний веб-застосунок, який до
 
 ## 📂 Структура проєкту
 * `app.py` — головний файл Streamlit-застосунку (UI, рендеринг компонентів, логіка чату та стрімінгу).
-* `agent.py` — модуль з логікою LangGraph-агента, інструментами та налаштуваннями моделі Gemini 2.5 Flash.
+* `agent.py` — модуль з логікою LangGraph-агента, інструментами (tools) та налаштуваннями моделі Gemini 2.5 Flash.
 * `.streamlit/secrets.toml` — файл для безпечного зберігання API-ключів (не відстежується в git).
 * `requirements.txt` — перелік залежностей для деплою.
 
@@ -60,7 +60,7 @@ BudgetGraph — це розумний веб-застосунок, який до
 
 ## 🎥 Демонстрація роботи
 
-* **Публічне посилання на застосунок:** [Посилання на Streamlit Community Cloud](#) *https://budgetgraph-ai.streamlit.app/*
+* **Публічне посилання на застосунок:** [** [Посилання на Streamlit Community Cloud](#) *(https://budgetgraph-ai.streamlit.app/)*
 
 ---
 
