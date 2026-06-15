@@ -4,7 +4,7 @@
 
 **Варіант 3:** Асистент для особистих фінансів.
 
-🔗 **[Посилання на розгорнутий застосунок (Streamlit Community Cloud)]** (https://budgetgraph-ai.streamlit.app/)
+🔗 **Посилання на розгорнутий застосунок (Streamlit Community Cloud):** https://budgetgraph-ai.streamlit.app/)
 
 ---
 
@@ -34,7 +34,7 @@ BudgetGraph — це розумний веб-застосунок, який до
 1. Клонуйте репозиторій:
    ```bash
    git clone https://github.com/mindeclipse/BudgetGraph-AI.git
-   cd budget_graph_ai
+   cd BudgetGraph-AI
    ```
 
 2. Створіть та активуйте віртуальне середовище:
