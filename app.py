@@ -14,11 +14,9 @@ st.set_page_config(page_title="BudgetGraph AI", page_icon="💰", layout="wide")
 
 st.markdown("""
 <style>
-    /* Мінімалістичний та чистий дизайн */
-    .stApp { background-color: #f8f9fa; }
+    /* Прибираємо жорсткий фон, щоб Streamlit сам керував темою */
     .stChatInput { padding-bottom: 20px; }
-    div[data-testid="stMetricValue"] { font-size: 1.8rem; font-weight: 600; color: #2c3e50; }
-    .css-1d391kg { padding-top: 1rem; }
+    div[data-testid="stMetricValue"] { font-size: 1.8rem; font-weight: 600; }
     .budget-warning { color: #e74c3c; font-weight: bold; }
 </style>
 """, unsafe_allow_html=True)
